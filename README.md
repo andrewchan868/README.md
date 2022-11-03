@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/user/andrewchan868">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapps&logoColor=white" alt="Whatsapp Badge"/>
+  <a href="https://api.whatsapp.com/send?phone=85267402326&text=Hi%20Andrew">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapps&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
