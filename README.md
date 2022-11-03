@@ -2,6 +2,10 @@
 
 <hr>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andrewchan868&count_private=true&hide_rank=false&show_icons=true&theme=blue-green&include_all_commits=true" alt="andrewchan868's GitHub Stats">
 
 
