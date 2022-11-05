@@ -1,5 +1,3 @@
-homingricky/README.md
-
 ### Hi there 👋 I'm Andrew
 
 <hr>
