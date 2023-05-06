@@ -46,15 +46,11 @@
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinescript/pinescript-original.svg">
-            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            <span><strong>Anaconda</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Android</strong></span><br>
