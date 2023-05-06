@@ -53,8 +53,8 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Android</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+            <span><strong>Pytorch</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
             </td>
         </tr>
     </tbody>
