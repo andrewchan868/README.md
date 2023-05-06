@@ -50,7 +50,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Anaconda</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Pytorch</strong></span><br>
