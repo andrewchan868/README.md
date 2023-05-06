@@ -12,6 +12,32 @@
 - :rocket: 2023 Goal: Machine Learning
 - :envelope: E-mail: [andrewchan868@gmail.com](mailto:andrewchan868@gmail.com)
 - :speech_balloon: Web: [andrewchan868.com](https://andrewchan868.com)
+ 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Android</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <div id="header" align="center">
