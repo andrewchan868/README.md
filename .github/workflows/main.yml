@@ -3,7 +3,7 @@ name: Generate GitHub Contribution Snake Animation
 on:
   # Run every minute for debugging. You may want to adjust this later!
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
   
   # Allows manual triggering of the workflow
   workflow_dispatch:
