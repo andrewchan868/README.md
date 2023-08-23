@@ -12,12 +12,7 @@
 
 ###
 
-
-
-
 <table width="320px">
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewchan868&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
     <tbody>
         <tr valign="top">
@@ -52,6 +47,8 @@
     </tbody>
 </table>
 
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewchan868&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
