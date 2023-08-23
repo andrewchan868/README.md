@@ -18,14 +18,6 @@
 </div>
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -77,7 +69,6 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andrewchan868/andrewchan868/output/snake.svg" alt="Snake animation" />
 
 
 
