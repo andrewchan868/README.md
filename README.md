@@ -6,7 +6,7 @@
 - :blue_book: Bachelor's degree: Data Science & Quant Finance
 - :green_book: Master's degree: -
 - :pushpin: Topics: HFT/ CTA strategies
-- :rocket: 2023 Goal: Machine Learning
+- :rocket: 2024 Goal: Trade higher freq
 - :envelope: E-mail: [andrewchan868@gmail.com](mailto:andrewchan868@gmail.com)
 - :speech_balloon: Web: [andrewchan868.com](https://andrewchan868.com)
 
